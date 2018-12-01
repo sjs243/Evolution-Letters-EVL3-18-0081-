@@ -1,0 +1,361 @@
+individual ID,body size,sequence of mite association ,mite number treatment,body temperature,soil temperature,difference in temperature,proportional increase in temperature
+1,3.47,increase ,zero,17.5,17.4,0.1,1
+1,3.47,increase ,ten,18.9,18.5,0.4,4
+1,3.47,increase ,twenty,17,16.7,0.3,3
+1,3.47,increase ,thirty,19.5,18.7,0.8,8
+2,3.69,decrease,thirty,18.3,17.8,0.5,5
+2,3.69,decrease,twenty,18.3,18.2,0.1,1
+2,3.69,decrease,ten,18.9,18.4,0.5,5
+2,3.69,decrease,zero,17.1,17,0.1,1
+3,3.73,increase ,zero,18.7,18.6,0.1,1
+3,3.73,increase ,ten,18.5,18.4,0.1,1
+3,3.73,increase ,twenty,16.2,15.8,0.4,4
+3,3.73,increase ,thirty,18.7,18.1,0.6,6
+4,4.58,decrease,thirty,20.8,20.3,0.5,1.25
+4,4.58,decrease,twenty,21.5,21.2,0.3,0.75
+4,4.58,decrease,ten,21.9,21.4,0.5,1.25
+4,4.58,decrease,zero,20.9,20.5,0.4,1
+5,3.94,increase ,zero,20.8,20.7,0.1,1
+5,3.94,increase ,ten,21.1,21,0.1,1
+5,3.94,increase ,twenty,21.4,21.1,0.3,3
+5,3.94,increase ,thirty,21.5,20.9,0.6,6
+6,3.96,decrease,thirty,19.3,18,1.3,6.5
+6,3.96,decrease,twenty,19.5,18.8,0.7,3.5
+6,3.96,decrease,ten,19.4,18.8,0.6,3
+6,3.96,decrease,zero,19.2,19,0.2,1
+7,3.99,decrease,thirty,20.8,19,1.8,3.6
+7,3.99,decrease,twenty,19.7,19.2,0.5,1
+7,3.99,decrease,ten,19.7,19.4,0.3,0.6
+7,3.99,decrease,zero,19.7,19.2,0.5,1
+8,4.16,decrease,thirty,19.7,19,0.7,7
+8,4.16,decrease,twenty,19.6,19.3,0.3,3
+8,4.16,decrease,ten,19.5,19.2,0.3,3
+8,4.16,decrease,zero,19.1,19,0.1,1
+9,4.17,decrease,thirty,18.5,18.3,0.2,2
+9,4.17,decrease,twenty,18.7,18.3,0.4,4
+9,4.17,decrease,ten,18.9,18.4,0.5,5
+9,4.17,decrease,zero,16.9,16.8,0.1,1
+10,4.32,increase ,zero,18.5,18,0.5,1
+10,4.32,increase ,ten,18.6,18.3,0.3,0.6
+10,4.32,increase ,twenty,16.5,16.2,0.3,0.6
+10,4.32,increase ,thirty,18.6,18,0.6,1.2
+11,4.24,decrease,thirty,19.7,18.9,0.8,2.666666667
+11,4.24,decrease,twenty,19.5,18.9,0.6,2
+11,4.24,decrease,ten,19.4,19.3,0.1,0.333333333
+11,4.24,decrease,zero,19.5,19.2,0.3,1
+12,4.25,decrease,thirty,20,18.9,1.1,2.2
+12,4.25,decrease,twenty,21.2,20.3,0.9,1.8
+12,4.25,decrease,ten,20.8,20.2,0.6,1.2
+12,4.25,decrease,zero,21.3,20.8,0.5,1
+13,4.3,decrease,thirty,22.8,21.7,1.1,1.833333333
+13,4.3,decrease,twenty,21.7,21.3,0.4,0.666666667
+13,4.3,decrease,ten,22.1,21.7,0.4,0.666666667
+13,4.3,decrease,zero,22.3,21.7,0.6,1
+14,4.32,increase ,zero,21.5,20.8,0.7,1
+14,4.32,increase ,ten,21.7,21.3,0.4,0.571428571
+14,4.32,increase ,twenty,21.1,20.4,0.7,1
+14,4.32,increase ,thirty,21.9,21.3,0.6,0.857142857
+15,5.42,decrease,thirty,21.4,20.7,0.7,0.636363636
+15,5.42,decrease,twenty,22,20.9,1.1,1
+15,5.42,decrease,ten,21.9,20.6,1.3,1.181818182
+15,5.42,decrease,zero,21.2,20.1,1.1,1
+16,4.4,increase ,zero,21.3,21,0.3,1
+16,4.4,increase ,ten,21.5,21.1,0.4,1.333333333
+16,4.4,increase ,twenty,21.1,20.6,0.5,1.666666667
+16,4.4,increase ,thirty,22,21.5,0.5,1.666666667
+17,4.43,increase ,zero,21.2,20.8,0.4,1
+17,4.43,increase ,ten,21.6,20.7,0.9,2.25
+17,4.43,increase ,twenty,21.5,21.1,0.4,1
+17,4.43,increase ,thirty,21.8,21.2,0.6,1.5
+18,4.45,decrease,thirty,20.4,19.1,1.3,4.333333333
+18,4.45,decrease,twenty,20.5,19.7,0.8,2.666666667
+18,4.45,decrease,ten,21.5,21,0.5,1.666666667
+18,4.45,decrease,zero,20,19.7,0.3,1
+19,4.45,decrease,thirty,19.8,18.7,1.1,3.666666667
+19,4.45,decrease,twenty,20.1,19.4,0.7,2.333333333
+19,4.45,decrease,ten,19.4,19.1,0.3,1
+19,4.45,decrease,zero,19.4,19.1,0.3,1
+20,4.49,decrease,thirty,19.8,18.7,1.1,1.571428571
+20,4.49,decrease,twenty,19.8,19.1,0.7,1
+20,4.49,decrease,ten,19.7,19.1,0.6,0.857142857
+20,4.49,decrease,zero,19.8,19.1,0.7,1
+21,4.53,increase ,zero,21.1,20.8,0.3,1
+21,4.53,increase ,ten,21.5,21,0.5,1.666666667
+21,4.53,increase ,twenty,20.5,19.9,0.6,2
+21,4.53,increase ,thirty,22.2,21.5,0.7,2.333333333
+22,4.54,decrease,thirty,21.3,20.4,0.9,2.25
+22,4.54,decrease,twenty,21.5,21.1,0.4,1
+22,4.54,decrease,ten,21.8,21.3,0.5,1.25
+22,4.54,decrease,zero,21.1,20.7,0.4,1
+23,4.56,decrease,thirty,20.7,19.2,1.5,2.5
+23,4.56,decrease,twenty,19.7,19.3,0.4,0.666666667
+23,4.56,decrease,ten,20.2,19.6,0.6,1
+23,4.56,decrease,zero,19.8,19.2,0.6,1
+24,4.57,increase ,zero,21.4,19.7,1.7,1
+24,4.57,increase ,ten,21.6,20.8,0.8,0.470588235
+24,4.57,increase ,twenty,22.3,21,1.3,0.764705882
+24,4.57,increase ,thirty,25.6,20.8,4.8,2.823529412
+25,4.57,increase ,zero,20.5,19.5,1,1
+25,4.57,increase ,ten,20.4,19.3,1.1,1.1
+25,4.57,increase ,twenty,21,20.2,0.8,0.8
+25,4.57,increase ,thirty,20.2,19.7,0.5,0.5
+26,4.58,increase ,zero,20.8,20.6,0.2,1
+26,4.58,increase ,ten,21.7,21.5,0.2,1
+26,4.58,increase ,twenty,21,20.6,0.4,2
+26,4.58,increase ,thirty,22.1,21.6,0.5,2.5
+27,4.58,increase ,zero,21.7,20.9,0.8,1
+27,4.58,increase ,ten,22,21.3,0.7,0.875
+27,4.58,increase ,twenty,20.7,20.1,0.6,0.75
+27,4.58,increase ,thirty,22.2,21.5,0.7,0.875
+28,4.62,increase ,zero,21.2,21,0.2,1
+28,4.62,increase ,ten,21.9,21.4,0.5,2.5
+28,4.62,increase ,twenty,21.2,20.9,0.3,1.5
+28,4.62,increase ,thirty,22.1,21.3,0.8,4
+29,4.62,increase ,zero,20.4,19,1.4,1
+29,4.62,increase ,ten,21.6,20.3,1.3,0.928571429
+29,4.62,increase ,twenty,21.8,20.8,1,0.714285714
+29,4.62,increase ,thirty,24.4,20.7,3.7,2.642857143
+30,5.41,decrease,zero,21.5,20.6,0.9,1
+30,5.41,decrease,ten,21,19.9,1.1,1.222222222
+30,5.41,decrease,twenty,21.7,20.1,1.6,1.777777778
+30,5.41,decrease,thirty,24.5,20.1,4.4,4.888888889
+31,4.64,increase ,zero,21.9,21,0.9,1
+31,4.64,increase ,ten,22.4,21.5,0.9,1
+31,4.64,increase ,twenty,21.5,20.9,0.6,0.666666667
+31,4.64,increase ,thirty,22.3,21.4,0.9,1
+32,4.65,decrease,thirty,21.8,21,0.8,1.333333333
+32,4.65,decrease,twenty,21.9,21.5,0.4,0.666666667
+32,4.65,decrease,ten,22,21.4,0.6,1
+32,4.65,decrease,zero,21,20.4,0.6,1
+33,4.65,increase ,zero,21.6,20.6,1,1
+33,4.65,increase ,ten,21.5,21,0.5,0.5
+33,4.65,increase ,twenty,21.2,20.4,0.8,0.8
+33,4.65,increase ,thirty,22.2,21.6,0.6,0.6
+34,4.69,increase ,zero,21.2,20.8,0.4,1
+34,4.69,increase ,ten,21.8,21,0.8,2
+34,4.69,increase ,twenty,20.8,20.2,0.6,1.5
+34,4.69,increase ,thirty,22.5,21.5,1,2.5
+35,4.75,increase ,zero,21.3,20.8,0.5,1
+35,4.75,increase ,ten,21.9,21.2,0.7,1.4
+35,4.75,increase ,twenty,21,20.4,0.6,1.2
+35,4.75,increase ,thirty,22.4,21.8,0.6,1.2
+36,4.71,decrease,zero,20.8,20.2,0.6,1
+36,4.71,decrease,twenty,20.4,19.8,0.6,1
+36,4.71,decrease,ten,21.5,20.9,0.6,1
+36,4.71,decrease,thirty,21.6,20.2,1.4,2.333333333
+37,4.73,decrease,twenty,21,19.6,1.4,1.4
+37,4.73,decrease,thirty,21.9,19.8,2.1,2.1
+37,4.73,decrease,ten,22.3,21,1.3,1.3
+37,4.73,decrease,zero,20.9,19.9,1,1
+38,4.74,increase ,zero,21.4,20.6,0.8,1
+38,4.74,increase ,ten,21.3,20.5,0.8,1
+38,4.74,increase ,twenty,21.6,21,0.6,0.75
+38,4.74,increase ,thirty,22.3,21.5,0.8,1
+39,4.76,decrease,twenty,20.9,19.8,1.1,1.833333333
+39,4.76,decrease,ten,20.5,20.2,0.3,0.5
+39,4.76,decrease,thirty,23.1,20.9,2.2,3.666666667
+39,4.76,decrease,zero,20.3,19.7,0.6,1
+40,4.79,decrease,thirty,21.1,19.9,1.2,2.4
+40,4.79,decrease,twenty,21.2,19.7,1.5,3
+40,4.79,decrease,ten,21.9,20.5,1.4,2.8
+40,4.79,decrease,zero,20.3,19.8,0.5,1
+41,4.79,decrease,thirty,20.7,19.8,0.9,0.6
+41,4.79,decrease,twenty,21.2,20.2,1,0.666666667
+41,4.79,decrease,ten,21.4,20.9,0.5,0.333333333
+41,4.79,decrease,zero,21.7,20.2,1.5,1
+42,4.8,decrease,zero,20.6,20.2,0.4,1
+42,4.8,decrease,ten,20.4,19.9,0.5,1.25
+42,4.8,decrease,twenty,22.2,21.2,1,2.5
+42,4.8,decrease,thirty,21.6,20,1.6,4
+43,4.83,increase ,zero,21.5,20.6,0.9,1
+43,4.83,increase ,ten,20.1,19.5,0.6,0.666666667
+43,4.83,increase ,twenty,21.3,20.3,1,1.111111111
+43,4.83,increase ,thirty,20.2,19.5,0.7,0.777777778
+44,4.84,increase ,twenty,23.2,20.2,3,3.75
+44,4.84,increase ,zero,21.4,20.6,0.8,1
+44,4.84,increase ,ten,23.5,21.6,1.9,2.375
+44,4.84,increase ,thirty,26,20.8,5.2,6.5
+45,5.21,decrease,ten,20.4,19.9,0.5,0.384615385
+45,5.21,decrease,twenty,21.6,20.2,1.4,1.076923077
+45,5.21,decrease,thirty,20.8,20,0.8,0.615384615
+45,5.21,decrease,zero,21.3,20,1.3,1
+46,4.88,decrease,thirty,20.2,19.3,0.9,1.5
+46,4.88,decrease,twenty,19.8,19.3,0.5,0.833333333
+46,4.88,decrease,ten,20,19.3,0.7,1.166666667
+46,4.88,decrease,zero,19.6,19,0.6,1
+47,4.89,decrease,thirty,19.7,18.9,0.8,4
+47,4.89,decrease,twenty,19.7,19.3,0.4,2
+47,4.89,decrease,ten,19.4,19.3,0.1,0.5
+47,4.89,decrease,zero,19.4,19.2,0.2,1
+48,4.9,decrease,zero,20.2,19.1,1.1,1
+48,4.9,decrease,ten,21.5,19.6,1.9,1.727272727
+48,4.9,decrease,twenty,22.4,19.8,2.6,2.363636364
+48,4.9,decrease,thirty,22.6,20.1,2.5,2.272727273
+49,4.91,increase ,zero,20.4,19,1.4,1
+49,4.91,increase ,ten,21.1,20.4,0.7,0.5
+49,4.91,increase ,twenty,22.1,20.9,1.2,0.857142857
+49,4.91,increase ,thirty,24.2,20,4.2,3
+50,4.91,decrease,thirty,21.3,20,1.3,1.857142857
+50,4.91,decrease,twenty,21.3,20.1,1.2,1.714285714
+50,4.91,decrease,ten,21.5,20.7,0.8,1.142857143
+50,4.91,decrease,zero,21.3,20.6,0.7,1
+51,4.92,decrease,zero,21.4,20,1.4,1
+51,4.92,decrease,ten,22.3,20,2.3,1.642857143
+51,4.92,decrease,twenty,22.4,19.8,2.6,1.857142857
+51,4.92,decrease,thirty,24.6,20.5,4.1,2.928571429
+52,4.93,increase ,zero,20.9,20.1,0.8,1
+52,4.93,increase ,ten,21.8,21,0.8,1
+52,4.93,increase ,twenty,22.4,21.3,1.1,1.375
+52,4.93,increase ,thirty,23,21,2,2.5
+53,4.96,decrease,zero,20.7,20.2,0.5,1
+53,4.96,decrease,twenty,21.5,19.7,1.8,3.6
+53,4.96,decrease,thirty,22.3,19.7,2.6,5.2
+53,4.96,decrease,ten,20.9,19.9,1,2
+54,4.98,increase ,zero,21.5,20.6,0.9,1
+54,4.98,increase ,ten,20.1,19.2,0.9,1
+54,4.98,increase ,twenty,21.2,20.5,0.7,0.777777778
+54,4.98,increase ,thirty,23.3,19.7,3.6,4
+55,5.2,decrease,ten,21.4,20.6,0.8,0.666666667
+55,5.2,decrease,twenty,21.8,21,0.8,0.666666667
+55,5.2,decrease,thirty,20.8,20.4,0.4,0.333333333
+55,5.2,decrease,zero,21.3,20.1,1.2,1
+56,4.99,increase ,twenty,22.8,19.7,3.1,2.214285714
+56,4.99,increase ,zero,21.8,20.4,1.4,1
+56,4.99,increase ,ten,22,20.3,1.7,1.214285714
+56,4.99,increase ,thirty,25.4,20.7,4.7,3.357142857
+57,5,increase ,zero,21.6,21,0.6,1
+57,5,increase ,ten,21.8,21,0.8,1.333333333
+57,5,increase ,twenty,21.6,20.8,0.8,1.333333333
+57,5,increase ,thirty,22.2,20.9,1.3,2.166666667
+58,5,increase ,zero,21.6,20.7,0.9,1
+58,5,increase ,ten,21.5,21.1,0.4,0.444444444
+58,5,increase ,twenty,20.6,19.9,0.7,0.777777778
+58,5,increase ,thirty,22.4,21.7,0.7,0.777777778
+59,5,increase ,thirty,22.8,19.7,3.1,5.166666667
+59,5,increase ,ten,21.2,20.3,0.9,1.5
+59,5,increase ,zero,21.8,21.2,0.6,1
+59,5,increase ,twenty,21.7,20.7,1,1.666666667
+60,4.51,decrease,thirty,19.9,19.6,0.3,0.333333333
+60,4.51,decrease,twenty,20.5,20,0.5,0.555555556
+60,4.51,decrease,ten,21,20.3,0.7,0.777777778
+60,4.51,decrease,zero,20.7,19.8,0.9,1
+61,5.01,increase ,zero,21.4,19.4,2,1
+61,5.01,increase ,ten,21.2,19.7,1.5,0.75
+61,5.01,increase ,twenty,21.2,20.8,0.4,0.2
+61,5.01,increase ,thirty,25.6,20.5,5.1,2.55
+62,5.09,decrease,ten,20.5,19.2,1.3,0.866666667
+62,5.09,decrease,twenty,20.9,20.3,0.6,0.4
+62,5.09,decrease,thirty,20.4,19.1,1.3,0.866666667
+62,5.09,decrease,zero,21,19.5,1.5,1
+63,5.02,increase ,zero,20.6,19.8,0.8,1
+63,5.02,increase ,ten,21.6,20.8,0.8,1
+63,5.02,increase ,twenty,21.7,20.7,1,1.25
+63,5.02,increase ,thirty,25.9,21.1,4.8,6
+64,5.02,increase ,zero,21,20.1,0.9,1
+64,5.02,increase ,ten,20.1,19.5,0.6,0.666666667
+64,5.02,increase ,twenty,20.5,19.6,0.9,1
+64,5.02,increase ,thirty,19.9,19.2,0.7,0.777777778
+65,5.03,increase ,zero,21.3,20.7,0.6,1
+65,5.03,increase ,ten,21.7,21.2,0.5,0.833333333
+65,5.03,increase ,twenty,21.4,20.4,1,1.666666667
+65,5.03,increase ,thirty,22.4,21.8,0.6,1
+66,5.03,increase ,zero,21.4,20.3,1.1,1
+66,5.03,increase ,ten,20.6,19.8,0.8,0.727272727
+66,5.03,increase ,twenty,21.1,20.2,0.9,0.818181818
+66,5.03,increase ,thirty,21.3,20.3,1,0.909090909
+67,5.04,increase ,zero,21.4,20.7,0.7,1
+67,5.04,increase ,ten,21.5,20.5,1,1.428571429
+67,5.04,increase ,twenty,22,21,1,1.428571429
+67,5.04,increase ,thirty,22.1,21.2,0.9,1.285714286
+68,5.04,increase ,zero,20.9,19.8,1.1,1
+68,5.04,increase ,ten,21.3,19.9,1.4,1.272727273
+68,5.04,increase ,twenty,21.9,20.7,1.2,1.090909091
+68,5.04,increase ,thirty,21.5,20.7,0.8,0.727272727
+69,5.04,decrease,ten,21.2,19.5,1.7,2.833333333
+69,5.04,decrease,twenty,21.7,21.1,0.6,1
+69,5.04,decrease,thirty,21.5,20.6,0.9,1.5
+69,5.04,decrease,zero,20.9,20.3,0.6,1
+70,5.08,increase ,zero,21,19.8,1.2,1
+70,5.08,increase ,ten,21.7,21,0.7,0.583333333
+70,5.08,increase ,twenty,21.5,21.2,0.3,0.25
+70,5.08,increase ,thirty,22.7,20.7,2,1.666666667
+71,5.09,increase ,zero,20.9,19.9,1,1
+71,5.09,increase ,ten,20.7,18.7,2,2
+71,5.09,increase ,twenty,21.3,20.2,1.1,1.1
+71,5.09,increase ,thirty,20.6,19.3,1.3,1.3
+72,5.01,decrease,ten,21,19.8,1.2,0.6
+72,5.01,decrease,twenty,21.1,20.5,0.6,0.3
+72,5.01,decrease,thirty,25,20.5,4.5,2.25
+72,5.01,decrease,zero,21.2,19.2,2,1
+73,5.11,increase ,zero,21.6,20.7,0.9,1
+73,5.11,increase ,ten,21.7,21.1,0.6,0.666666667
+73,5.11,increase ,twenty,20.9,20,0.9,1
+73,5.11,increase ,thirty,22.6,21.4,1.2,1.333333333
+74,5.15,decrease,twenty,20.7,20,0.7,0.875
+74,5.15,decrease,thirty,21.2,19.7,1.5,1.875
+74,5.15,decrease,ten,21.1,20.4,0.7,0.875
+74,5.15,decrease,zero,20.6,19.8,0.8,1
+75,5.19,decrease,thirty,19.9,18.9,1,3.333333333
+75,5.19,decrease,twenty,19.6,19,0.6,2
+75,5.19,decrease,ten,19.3,19.2,0.1,0.333333333
+75,5.19,decrease,zero,19.5,19.2,0.3,1
+76,5.2,increase ,zero,21.4,20.1,1.3,1
+76,5.2,increase ,ten,21.6,20.7,0.9,0.692307692
+76,5.2,increase ,twenty,22.1,21.3,0.8,0.615384615
+76,5.2,increase ,thirty,21.1,20.6,0.5,0.384615385
+77,4.98,decrease,ten,19.9,19.6,0.3,0.428571429
+77,4.98,decrease,twenty,21,20,1,1.428571429
+77,4.98,decrease,thirty,22.5,19.7,2.8,4
+77,4.98,decrease,zero,21.4,20.7,0.7,1
+78,5.21,increase ,zero,21.3,20.5,0.8,1
+78,5.21,increase ,ten,20.8,19.7,1.1,1.375
+78,5.21,increase ,twenty,21.9,20.4,1.5,1.875
+78,5.21,increase ,thirty,21.1,20.3,0.8,1
+79,5.21,decrease,twenty,20.6,19.4,1.2,2.4
+79,5.21,decrease,zero,20.1,19.6,0.5,1
+79,5.21,decrease,thirty,22.5,19.9,2.6,5.2
+79,5.21,decrease,ten,20.6,19.8,0.8,1.6
+80,4.62,increase ,zero,20.2,19.3,0.9,1
+80,4.62,increase ,ten,20.9,20.4,0.5,0.555555556
+80,4.62,increase ,twenty,21.6,20.6,1,1.111111111
+80,4.62,increase ,thirty,24.2,20.5,3.7,4.111111111
+81,5.25,decrease,thirty,21.1,19.7,1.4,2.333333333
+81,5.25,decrease,twenty,20.2,19.6,0.6,1
+81,5.25,decrease,ten,20.2,19.6,0.6,1
+81,5.25,decrease,zero,20.2,19.6,0.6,1
+82,5.28,decrease,thirty,20.5,19.8,0.7,0.7
+82,5.28,decrease,twenty,20.7,19.6,1.1,1.1
+82,5.28,decrease,ten,20.8,19.8,1,1
+82,5.28,decrease,zero,20.7,19.7,1,1
+83,5.32,decrease,thirty,20.6,19.5,1.1,2.2
+83,5.32,decrease,twenty,21.1,19.7,1.4,2.8
+83,5.32,decrease,ten,20.5,20.2,0.3,0.6
+83,5.32,decrease,zero,20.2,19.7,0.5,1
+84,5.38,decrease,thirty,21.3,18.6,2.7,3.857142857
+84,5.38,decrease,twenty,20.1,19.3,0.8,1.142857143
+84,5.38,decrease,ten,19.7,19.1,0.6,0.857142857
+84,5.38,decrease,zero,19.6,18.9,0.7,1
+85,5.4,decrease,thirty,20.2,18.6,1.6,2.666666667
+85,5.4,decrease,twenty,20,19.1,0.9,1.5
+85,5.4,decrease,ten,19.8,19.3,0.5,0.833333333
+85,5.4,decrease,zero,19.7,19.1,0.6,1
+86,4.84,increase ,zero,21.3,19.6,1.7,1
+86,4.84,increase ,ten,21.1,20.7,0.4,0.235294118
+86,4.84,increase ,twenty,23.4,21.4,2,1.176470588
+86,4.84,increase ,thirty,23.5,20.7,2.8,1.647058824
+87,5.42,increase ,zero,21.4,20.1,1.3,1
+87,5.42,increase ,ten,21.9,20.8,1.1,0.846153846
+87,5.42,increase ,twenty,22.1,21,1.1,0.846153846
+87,5.42,increase ,thirty,21.6,21,0.6,0.461538462
+88,4.19,increase ,zero,20.5,19.6,0.9,1
+88,4.19,increase ,ten,21.4,20.8,0.6,0.666666667
+88,4.19,increase ,twenty,21.5,20.7,0.8,0.888888889
+88,4.19,increase ,thirty,25.3,21.1,4.2,4.666666667
+89,5.44,decrease,thirty,21.3,19.8,1.5,2.142857143
+89,5.44,decrease,twenty,20.3,19.4,0.9,1.285714286
+89,5.44,decrease,ten,21,20.1,0.9,1.285714286
+89,5.44,decrease,zero,21.1,20.4,0.7,1
+90,4.94,increase ,zero,18.3,18.1,0.2,1
+90,4.94,increase ,ten,18.4,17.9,0.5,2.5
+90,4.94,increase ,twenty,17.4,16.9,0.5,2.5
+90,4.94,increase ,thirty,18.3,17.4,0.9,4.5
